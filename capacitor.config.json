@@ -1,0 +1,7 @@
+{
+  "appId": "com.sharadiya.app",
+  "appName": "Sharadiya",
+  "webDir": "www",
+  "backgroundColor": "#120c11",
+  "android": { "backgroundColor": "#120c11", "allowMixedContent": false }
+}

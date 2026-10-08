@@ -21,6 +21,10 @@ jobs:
           for d in mdpi hdpi xhdpi xxhdpi xxxhdpi; do
             cp icons/mipmap-$d/*.png $RES/mipmap-$d/
           done
+      - name: Native fixes (status bar, autoplay)
+        run: |
+          F=$(find android/app/src/main/java -name MainActivity.java)
+          cp native/MainActivity.java "$F"
       - run: npx cap sync android
       - run: cd android && chmod +x gradlew && ./gradlew assembleDebug
       - uses: actions/upload-artifact@v4

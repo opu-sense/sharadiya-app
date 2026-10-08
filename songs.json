@@ -131,10 +131,18 @@
   "artist": "",
   "src": "https://pub-75c68858349440c39d937eff7531332c.r2.dev/songs/DurgeDurgeDurgatinashini.mp3",
   "img": "https://pub-75c68858349440c39d937eff7531332c.r2.dev/covers/DurgeDurgeDurgatinashini.jpg",
-  "duration": "3:20"
+  "duration": "5:09"
+},
+
+ {
+  "title": "Rupang Dehi",
+  "artist": "",
+  "src": "https://pub-75c68858349440c39d937eff7531332c.r2.dev/songs/RupangDehi.mp3",
+  "img": "https://pub-75c68858349440c39d937eff7531332c.r2.dev/covers/RupangDehi.jpg",
+  "duration": "4:17"
 }
 
- ],
+],
   "mahalaya": [],
   "mahalayaSongs": [
     {

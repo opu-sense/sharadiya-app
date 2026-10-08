@@ -125,8 +125,16 @@
       "src": "https://pub-75c68858349440c39d937eff7531332c.r2.dev/songs/DhakBaajaKomorNacha.mp3",
       "img": "https://pub-75c68858349440c39d937eff7531332c.r2.dev/covers/DhakBaajaKomorNacha.jpg",
       "duration": "3:32"
-    }
-  ],
+    },
+ {
+  "title": "Durge Durge Durgatinashini",
+  "artist": "",
+  "src": "https://pub-75c68858349440c39d937eff7531332c.r2.dev/songs/DurgeDurgeDurgatinashini.jpg",
+  "img": "https://pub-75c68858349440c39d937eff7531332c.r2.dev/covers/DurgeDurgeDurgatinashini.jpg",
+  "duration": "3:20"
+}
+
+ ],
   "mahalaya": [],
   "mahalayaSongs": [
     {
